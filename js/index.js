@@ -1,2 +1,4 @@
-funciont a(){
+function a(){
+}
+function b(){
 }
